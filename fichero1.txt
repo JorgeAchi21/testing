@@ -2,3 +2,8 @@ esto es una prueba
 editado on-line
 esto esta editado en local
 editado on-line 2
+editado local subido con vscode.
+....
+otra linea
+....
+
